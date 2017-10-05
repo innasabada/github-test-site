@@ -1,8 +1,9 @@
 body{
-	background: gold;
+	background: grey;
 }
 h1{
 	color: green;
+	font-size: 48px;
 }
 ul li{
 	color: blue;
