@@ -1,5 +1,8 @@
+body{
+	background: gold;
+}
 h1{
-	color: red;
+	color: green;
 }
 ul li{
 	color: blue;
